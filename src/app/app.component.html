@@ -1,0 +1,34 @@
+<body>
+<div class="logo" >
+  <div style="float: left; padding-right: 30px;">
+   <img src="https://images-na.ssl-images-amazon.com/images/I/51kmNBL12lL.jpg"
+   class="rounded-circle" alt="Cinque Terre" width="170" height="115">
+   </div>
+   <div  style="height:115px; padding:10px; width:auto; float: centre; ">
+  <h1 style="text-align: center; font-size: 50px;">Fitness Appointment Tracker</h1>
+  </div>
+</div >
+  <br>
+  <div class="row">
+  <div class="navbar">
+    <button (click)="landingpage()">Home</button>
+    <button (click)="placeAppointment()">Place Appointment</button>
+    <button (click)="viewAppointment()">View Appointment</button>
+    <button>Search</button>
+    <button (click)="contactUspage()">Contact Us</button>
+  </div>
+  </div>
+  <hr>
+  <div class="sidebar">
+    <button (click)="landingpage()">Home</button><br><br>
+    <button (click)="placeAppointment()">Place Appointment</button><br><br>
+    <button (click)="viewAppointment()">View Appointment</button><br><br>
+    <button>Search</button><br><br>
+    <button (click)="contactUspage()">Contact Us</button>
+  </div>
+</body>
+  
+  <router-outlet></router-outlet>
+  
+  
+

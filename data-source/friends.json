@@ -1,0 +1,74 @@
+{
+  "allfriends": [
+    {
+      "firstname": "Abcde",
+      "lastname": "Wxyz",
+      "age": 20,
+      "phonenumber": "9273555321",
+      "email": "test@test.com",
+      "streetaddress": "test",
+      "city": "test",
+      "state": "test",
+      "country": "India",
+      "pincode": "560058",
+      "trainerpreference": "Female",
+      "physiotherapist": "Yes",
+      "packages": "2400",
+      "inr": "2400",
+      "date": "2020-08-20",
+      "id": 1
+    },
+    {
+      "firstname": "Qwerty",
+      "lastname": "Poiuyt",
+      "packages": "2400",
+      "physiotherapist": "Yes",
+      "trainerpreference": "Male",
+      "age": 23,
+      "email": "test@test.com",
+      "phonenumber": "9273555321",
+      "pincode": "560058",
+      "country": "India",
+      "state": "test",
+      "city": "test",
+      "streetaddress": "test",
+      "inr": "2400",
+      "date": "2020-08-20",
+      "id": 2
+    }
+  ],
+  "contacts": [
+    {
+      "firstname": "Xyz",
+      "lastname": "Wxyz",
+      "phonenumber": "9273555321",
+      "email": "xyz@test.com",
+      "message": "qwertyuiop",
+      "id": 1
+    },
+    {
+      "firstname": "Hijk",
+      "lastname": "Lkjhg",
+      "phonenumber": "9273555321",
+      "email": "hijk@test.com",
+      "message": "qwertyuiop",
+      "id": 2
+    },
+    {
+      "firstname": "Lmno",
+      "lastname": "Mnbvc",
+      "phonenumber": "9273555321",
+      "email": "lmno@test.com",
+      "message": "tftsfdtsf",
+      "id": 3
+    },
+    {
+      "firstname": "utrrr",
+      "lastname": "asds",
+      "phonenumber": "1234567890",
+      "email": "abc@gmail.com",
+      "message": "qwrerhfhfj",
+      "id": 4
+    }
+  ]
+}
